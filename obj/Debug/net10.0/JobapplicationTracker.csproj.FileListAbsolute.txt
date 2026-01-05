@@ -1,0 +1,14 @@
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\bin\Debug\net10.0\JobapplicationTracker.exe
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\bin\Debug\net10.0\JobapplicationTracker.deps.json
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\bin\Debug\net10.0\JobapplicationTracker.runtimeconfig.json
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\bin\Debug\net10.0\JobapplicationTracker.dll
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\bin\Debug\net10.0\JobapplicationTracker.pdb
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\JobapplicationTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\JobapplicationTracker.AssemblyInfoInputs.cache
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\JobapplicationTracker.AssemblyInfo.cs
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\JobapplicationTracker.csproj.CoreCompileInputs.cache
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\JobapplicationTracker.dll
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\refint\JobapplicationTracker.dll
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\JobapplicationTracker.pdb
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\JobapplicationTracker.genruntimeconfig.cache
+C:\Users\samim\source\repos\Jobapplication\Jobapplication\obj\Debug\net10.0\ref\JobapplicationTracker.dll
