@@ -150,6 +150,7 @@ public class JobManager
     }
 
     public void ShowStatistics()
+    //Added LINQ improvement for clearer statistics
     {
         Console.WriteLine($"Totalt antal ansökningar: {Applications.Count}");
 
