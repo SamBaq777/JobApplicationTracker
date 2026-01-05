@@ -7,7 +7,7 @@ public enum ApplicationStatus
     Offer,      // Fått erbjudande
     Rejected    // Fått nej
 }
-
+// Development branch test comment
 public class JobApplication
 {
     public string CompanyName { get; set; }
