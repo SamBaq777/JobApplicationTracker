@@ -9,6 +9,7 @@ class Program
 
         while (running)
         {
+            //Improved menu readability
             Console.WriteLine("=== Job Application Tracker ===");
             Console.WriteLine("1. Lägg till ny ansökan");
             Console.WriteLine("2. Visa alla ansökningar");
